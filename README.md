@@ -1,4 +1,4 @@
-# Mohammed
+# Mohammed Alsamawi
 
 Business Information Technology student (3rd year, 2nd semester). I build backend systems and mobile apps, and I'm learning machine learning.
 
