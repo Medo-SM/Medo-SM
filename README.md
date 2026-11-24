@@ -12,7 +12,7 @@ REST API for apartment building operations: units, tenants, rent payments, maint
 University monitoring system for tracking student attendance and grades, with role-based access for lecturers, department heads and administrators.
 `PHP` `MySQL` `Bootstrap`
 
-**reddit-sentiment-analysis**
+**[reddit-sentiment-analysis](https://github.com/Medo-SM/reddit-carrer-sentiment-analysis)**
 Sentiment analysis pipeline over Reddit data: collection, preprocessing, modeling, evaluation.
 `Python` `pandas` `scikit-learn`
 
